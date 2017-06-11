@@ -1,4 +1,9 @@
-# WiaLauncher
+
+[Russian forum](https://forum.gurtam.com/viewtopic.php?id=11297)
+
+[English forum](https://forum.gurtam.com/viewtopic.php?id=11504)
+
+
 version history:
  - v.0.0.1
  
